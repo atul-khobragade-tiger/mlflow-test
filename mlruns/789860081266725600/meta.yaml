@@ -1,0 +1,6 @@
+artifact_location: file:///home/atul/test/my_mlflow_project/mlruns/789860081266725600
+creation_time: 1727685916807
+experiment_id: '789860081266725600'
+last_update_time: 1727685916807
+lifecycle_stage: active
+name: Iris_Classification
